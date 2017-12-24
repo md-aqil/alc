@@ -3,7 +3,8 @@
     background: url(../img/stro.svg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 40%;
+    background-size: 90%;
+    background-position-y: -900px;
 }
 
 body {
@@ -233,3 +234,25 @@ body {
 .big-button.hero.main {
     background: #cd8419;
 }
+.top-page-container {
+  margin-top: 40%;
+}
+@media screen and (max-width: 991px) {
+
+.w-nav[data-collapse=medium] .w-nav-button {
+    display: block;
+    position: absolute;
+    right: 30px;
+ }
+    .nav-menu-2.w-nav-menu {
+        width: 100%;
+        text-align: center;
+    }
+    .brand-2.w-nav-brand img {
+      width: 60px;
+    }
+
+}
+
+
+
