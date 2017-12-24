@@ -237,6 +237,20 @@ body {
 .top-page-container {
   margin-top: 40%;
 }
+.logo {
+    position: static;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+    font-family: Comfortaa, sans-serif;
+    color: #ffeef5;
+    font-size: 67px;
+    font-weight: 300;
+    text-align: left;
+    letter-spacing: 4px;
+    text-transform: none
+}
+
 @media screen and (max-width: 991px) {
 
 .w-nav[data-collapse=medium] .w-nav-button {

@@ -1729,19 +1729,6 @@ fieldset[disabled] .w-select {
     background-position: 0 0, 0 0;
     background-size: auto, 399px
 }
-.logo {
-    position: static;
-    margin-top: 0;
-    margin-bottom: 20px;
-    margin-left: -6px;
-    font-family: Comfortaa, sans-serif;
-    color: #ffeef5;
-    font-size: 86px;
-    font-weight: 300;
-    text-align: left;
-    letter-spacing: 4px;
-    text-transform: none
-}
 .stars-section,
 .stars-section.no-gradient {
     position: relative;
