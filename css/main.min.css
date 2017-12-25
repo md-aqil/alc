@@ -5300,10 +5300,7 @@ html.w-mod-js [data-ix=invisible-copyright] {
         -ms-flex: 0 0 auto;
         flex: 0 0 auto
     }
-    .mouse {
-        display: none;
-        height: 39px
-    }
+  
     .nav-menu,
     .team-header {
         display: block
