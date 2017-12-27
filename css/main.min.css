@@ -236,7 +236,6 @@ html.w-mod-touch * {
 .w-button {
     display: inline-block;
     padding: 9px 15px;
-    background-color: #3898EC;
     color: #fff;
     border: 0;
     line-height: inherit;
@@ -2150,7 +2149,6 @@ fieldset[disabled] .w-select {
     padding-top: 5px;
     padding-bottom: 5px;
     border: 1px solid #7a3490;
-    background-color: #000;
     -webkit-transition: background-color .6s ease-in-out;
     transition: background-color .6s ease-in-out;
     font-family: 'Titillium Web', sans-serif;
