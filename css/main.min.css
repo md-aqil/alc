@@ -2599,9 +2599,7 @@ fieldset[disabled] .w-select {
 }
 .mouse {
     width: 28px;
-    height: 40px;
-    border: 2px solid #ffe0ee;
-    border-radius: 25px
+   
 }
 .click-wheel {
     width: 3px;
