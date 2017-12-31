@@ -277,8 +277,8 @@ body {
 .btn-cont {
     text-align: center;
     width: 100%;
-    margin-top: 60px;
-}
+    margin-bottom: 50px;
+  }
 .big-button.hero {
   width: 180px;
 }
@@ -362,4 +362,48 @@ body {
 }
 .top-page-container {
   margin-top: 70%;
+}
+
+@media (max-width:767px) {
+.top-page-container {
+    margin-top: 0;
+}
+.social-icon.big {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.stars-section {
+      min-height: 50vh;
+}
+.stars-section.no-gradient {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.socail-links.big {
+  margin-top: 200px;
+}
+.small-heading {
+  text-align: center;
+}
+.one-of-a-pair {
+  width: 100%;
+}
+
+.stars-section.no-gradient.two-gradients {
+  padding: 0;
+}
+.heading.subheader {
+  font-size: 18px;
+  padding: 35px;
+}
+.hero-header-div {
+  padding-left: 15px;
+}
+.subheader.alc-b {
+  padding: 0;
+  text-align: center;
+}
+.navbar-2 {
+  position: absolute;
+}
 }
